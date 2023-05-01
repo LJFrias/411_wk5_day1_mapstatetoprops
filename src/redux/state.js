@@ -1,11 +1,11 @@
 const state = {
     // Add user property here
-    user: [
+    user: 
       {
          username: 'Luke',
          email: 'test-user@example.com'
      }
-    ],
+    ,
     cars: [
         {
            "id": 1,
